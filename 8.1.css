@@ -1,0 +1,31 @@
+#main{
+width:600px;
+height:500px;
+margin:0px auto;
+background:rgba(192,192,192,0.5);
+border:5px double #666666;
+}
+#top{
+width:590px;
+height:140px;
+background:rgba(192,192,192,0.5);
+border:5px double #666666;
+}
+#down{
+width:590px;
+height:320px;
+background:rgba(192,192,192,0.5);
+border:5px double #666666;
+}
+body{
+background:url(/8/img/9.jpg) no-repeat;
+}
+.ys1{
+color:#FF0000;
+font-weight:bold;
+font-family:"·½ÕýÊæÌå";
+font-size:16px;
+}
+.ys2{
+text-align:center;
+}

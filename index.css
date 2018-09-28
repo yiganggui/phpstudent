@@ -1,0 +1,25 @@
+/* CSS Document */
+body{
+background:url(/8/img/3.jpg) no-repeat;
+}
+#main{
+width:500px;
+height:349px;
+margin:200px auto;
+}
+#top{
+width:500px;
+height:99px;
+background:url(/8/img/xuesheng.png);
+}
+#footer{
+width:200px;
+margin:0px auto;
+height:245px;
+}
+.ygg
+{
+	width:100px;
+	background:#0099FF;
+	color:#FFFF00;
+}
